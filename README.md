@@ -18,7 +18,7 @@ To ensure scalability and performance, the system is built using a microservices
 To start using the Smart Glove system, follow these steps:
 
 **1. Download and Install the App**
-Download the `SmartGlove.apk` file directly from this repository and install it on your Android device.
+Go to the **[Releases](https://github.com/Rozzzchepiy/НАЗВА_РЕПОЗИТОРІЮ/releases/latest)** page of this repository. Download the `app-release.apk` file from the **Assets** section and install it on your Android device.
 
 **2. Hardware Setup (Bluetooth)**
 Put the physical Smart Glove on your hand and turn it on. Open your phone's **Bluetooth** settings and pair it with the glove so it can start transmitting real-time sensor data to the application.
